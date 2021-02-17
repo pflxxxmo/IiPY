@@ -1,0 +1,12 @@
+﻿  opencv_test.cpp
+D:\Visual Studio\5\opencv_test\opencv_test\opencv_test.cpp(131,115): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+D:\Visual Studio\5\opencv_test\opencv_test\opencv_test.cpp(131,107): warning C4244: аргумент: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+  opencv_test.vcxproj -> D:\Visual Studio\5\opencv_test\x64\Debug\opencv_test.exe
